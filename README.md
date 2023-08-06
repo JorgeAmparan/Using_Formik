@@ -8,18 +8,19 @@ This is an exercise that uses Formik library with the three most annoying aspect
 >  Form includes 
 - Email input field type email
 - Password input field type password
+- Submit button
   
-![Catrina](https://user-images.githubusercontent.com/115447825/212738021-62b87aa3-54cb-4d3c-b604-c9d70d52d57c.jpg)
+![Empty Form](https://raw.githubusercontent.com/JorgeAmparan/Using_Formik/main/Captura%20de%20pantalla%202023-08-06%20a%20la(s)%202.50.49%20p.m..png)
 
 >  When username or password inputs are empty, form displays the message "Field required" under each text input.
-  
-![Catrina](https://user-images.githubusercontent.com/115447825/212738021-62b87aa3-54cb-4d3c-b604-c9d70d52d57c.jpg)
 
+![Form](https://raw.githubusercontent.com/JorgeAmparan/Using_Formik/main/Captura%20de%20pantalla%202023-08-06%20a%20la(s)%202.51.37%20p.m..png))
+  
 >  When username is not in an email format, a message shows that input should contain @ for email formatting. 
   
-![Catrina](https://user-images.githubusercontent.com/115447825/212738021-62b87aa3-54cb-4d3c-b604-c9d70d52d57c.jpg)
+![Email Type Validate](https://raw.githubusercontent.com/JorgeAmparan/Using_Formik/main/Captura%20de%20pantalla%202023-08-06%20a%20la(s)%202.51.50%20p.m..png)
 
 >  When username and password are validated, then the message "Login Successful" appears in an alert box. 
   
-![Catrina](https://user-images.githubusercontent.com/115447825/212738021-62b87aa3-54cb-4d3c-b604-c9d70d52d57c.jpg)
+![Successful Form Submission](https://raw.githubusercontent.com/JorgeAmparan/Using_Formik/main/Captura%20de%20pantalla%202023-08-06%20a%20la(s)%202.52.03%20p.m..png)
 
